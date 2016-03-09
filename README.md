@@ -15,7 +15,7 @@
 ![ScreenShot](block1.png)
 
 - Block for Linear Search
-![ScreenShot](block2.png)
+![ScreenShot](block.2.png)
 
 - Block for Binary Search
-![ScreenShot](block.3.png)
+![ScreenShot](block,3.png)
